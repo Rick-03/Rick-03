@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Satwick Mukherjee</h1>
 
-<h3 align="center">A passoniate Full developer and Tech enthusiast from India</h3>
+<h3 align="center">A passoniate Full Stack developer and Tech enthusiast from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rick-03&label=Profile%20views&color=0e75b6&style=flat" alt="rick-03" /> </p>
